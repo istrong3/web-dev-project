@@ -1,0 +1,17 @@
+.bold {font-weight: bold;}
+
+.italic {font-style: italic;}
+
+.sexy {
+    font-family: sans-serif;
+    color: lightgray;
+}
+
+.pic {
+    height="100"; 
+    width="72"; 
+    left: 200px; 
+    float: right;
+}
+
+.other {font-size: 40px;}
